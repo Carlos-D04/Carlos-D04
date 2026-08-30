@@ -1,31 +1,92 @@
-[](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=0500&color=323333&multiline=true&width=800&lines=pxdritz)
-
----
-
-<div align="center">
+# Hi, I'm Carlos 👋
 
 ```bash
 $ whoami
-Carlos - he/him
+Carlos — Backend Developer
 
-$ role
-Backend Developer
+$ stack
+Python • Django • Django REST Framework
+
+$ status
+Building APIs and learning backend development
 ```
-
-</div>
 
 ---
 
 ## About
-- Computer Science student focused on backend development.
-- Currently studying Python, Django, and Django REST Framework.
-- Building REST APIs and backend projects to improve my development skills.
-- Learning through hands-on projects and continuously improving my knowledge.
+
+- 🎓 Computer Science student focused on backend development.
+- 🐍 Currently studying Python, Django, and Django REST Framework.
+- 🔌 Building REST APIs and backend projects to improve my development skills.
+- 📚 Learning through hands-on projects and continuously improving my knowledge.
 
 ---
 
+## Tech Stack
 
-## Profile views
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+
+### Database
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Currently Learning
+
+```python
+learning = {
+    "language": "Python",
+    "framework": "Django",
+    "api": "Django REST Framework",
+    "focus": "Backend Development"
+}
+```
+
+---
+
+## Projects
+
+### 🛒 Django REST API
+
+REST API built while learning backend development with Django REST Framework.
+
+**Technologies:** Python • Django • Django REST Framework • SQLite
+
+> 🚧 Currently in development
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pxdritz&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Carlos-D04&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Carlos GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-D04&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Carlos-D04&style=flat-square" alt="Profile views"/>
 </p>
