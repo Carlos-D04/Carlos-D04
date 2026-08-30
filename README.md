@@ -45,17 +45,6 @@ Building APIs and learning backend development
 
 ---
 
-## Currently Learning
-
-```python
-learning = {
-    "language": "Python",
-    "framework": "Django",
-    "api": "Django REST Framework",
-    "focus": "Backend Development"
-}
-```
-
 
 ## Profile Views
 
