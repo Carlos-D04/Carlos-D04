@@ -56,14 +56,6 @@ learning = {
 ```
 
 
-## GitHub Stats
-
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-D04&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-D04&layout=compact&theme=github_dark)
-
----
-
 ## Profile Views
 
 <p align="center">
