@@ -55,35 +55,12 @@ learning = {
 }
 ```
 
----
-
-## Projects
-
-### 🛒 Django REST API
-
-REST API built while learning backend development with Django REST Framework.
-
-**Technologies:** Python • Django • Django REST Framework • SQLite
-
-> 🚧 Currently in development
-
----
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Carlos-D04&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Carlos GitHub Stats"
-  />
-</p>
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-D04&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-D04&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-D04&layout=compact&theme=github_dark)
 
 ---
 
