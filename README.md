@@ -15,10 +15,18 @@ Building APIs and learning backend development
 
 ## About
 
-- 🎓 Computer Science student focused on backend development.
-- 🐍 Currently studying Python, Django, and Django REST Framework.
-- 🔌 Building REST APIs and backend projects to improve my development skills.
-- 📚 Learning through hands-on projects and continuously improving my knowledge.
+I'm a Computer Science student focused on backend development, currently working with Python, Django, Django REST Framework, and PostgreSQL.
+
+My goal goes beyond writing code that works. I want to understand how systems are designed, how their components fit together, and how technical decisions affect maintainability, security, performance, and scalability.
+
+Through hands-on projects, I'm learning to:
+- Translate business requirements into clear rules, data models, and APIs.
+- Explore architectural approaches and understand their trade-offs.
+- Use testing to verify behavior and support changes with confidence.
+- Reason about system design, from database choices to communication between services.
+- Recognize when a solution addresses a real need and when it introduces unnecessary complexity.
+
+I'm building a foundation in software engineering by studying the reasoning behind each solution—not just how to implement it, but when to use it, what it costs, and how it might need to change as a system grows.
 
 ---
 
